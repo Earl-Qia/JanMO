@@ -11,3 +11,4 @@ echo "this is git gui !";
 
 ÏÔÊ¾²Ù×÷¼ÇÂ¼
 	git reflog
+1-23
